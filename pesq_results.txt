@@ -1,0 +1,8 @@
+       REFERENCE                     DEGRADED             PESQMOS      MOSLQO     SAMPLE_FREQ      MODE
+
+./newscut_tail_16000.wav    ./newscut_tail_16000.wav       4.500       4.549           16000        nb
+test.wav    test_output.wav       0.436       1.070           16000        nb
+test2.wav    test2_output.wav       0.659       1.098           16000        nb
+test3.wav    test3_output.wav       0.504       1.078           16000        nb
+test.wav    test_output.wav       0.436       1.070           16000        nb
+test.wav    test.wav       4.500       4.549           16000        nb
